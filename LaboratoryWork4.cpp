@@ -221,25 +221,17 @@ void demonstrate_specification_and_distribution(const string& specification_stri
     cout << "\n";
 }
 
+#include <graphics.h>
+#include <conio.h>
+
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-
-    try {
-        cout << "Example: roll_dice(\"2d6+2,3d10, 8d10+6\") => ";
-        cout << roll_dice("2d6+2,3d10, 8d10+6") << "\n\n";
-
-        vector<string> specification_list = { "1d6", "2d6", "3d6", "1d10", "2d10", "3d10" };
-        const long long number_of_trials = 100000;
-        for (const auto& specification : specification_list) {
-            demonstrate_specification_and_distribution(specification, number_of_trials);
-        }
-
-    }
-    catch (const std::exception& e) {
-        cerr << "Error: " << e.what() << "\n";
-        return 1;
-    }
+    int gd = DETECT, gm;
+    initgraph(&gd, &gm, "");
+    circle(300, 300, 100);
+    getch();
+    closegraph();
     return 0;
 }
+
+
 

@@ -1,2 +1,249 @@
 ﻿  LaboratoryWork4.cpp
-  LaboratoryWork4.vcxproj -> G:\LaboratoryWork4\x64\Debug\LaboratoryWork4.exe
+C:\Users\sgsgg\vcpkg\installed\x64-windows\include\matplot\util\common.h(632,22): warning C4099: 'std::iterator': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(7115,1):
+      see declaration of 'std::iterator'
+  
+C:\Users\sgsgg\vcpkg\installed\x64-windows\include\matplot\util\common.h(632,22): error C2990: 'std::iterator': non-class template has already been declared as a class template
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(7115,1):
+      see declaration of 'std::iterator'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(203,9): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(975,6): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(983,6): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypesbase.h(447,21): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypesbase.h(472,21): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypesbase.h(489,21): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(85,21): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(94,21): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(100,21): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(106,21): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(112,21): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(118,21): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypes.h(493,21): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidlbase.h(2275,74): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidlbase.h(2289,57): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidlbase.h(8492,74): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidlbase.h(8508,57): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidl.h(10444,64): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidl.h(11002,72): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidl.h(11034,72): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidl.h(11542,74): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidl.h(11557,57): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidl.h(12018,21): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidl.h(13832,57): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidl.h(13847,57): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidl.h(15586,74): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidl.h(15602,57): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidl.h(15749,72): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidl.h(15788,72): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidl.h(15805,74): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidl.h(15822,57): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidl.h(16067,57): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\objidl.h(16086,57): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\oaidl.h(571,21): error C2872: 'byte': ambiguous symbol
+  (compiling source file 'LaboratoryWork4.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\rpcndr.h(202,23):
+      could be 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef(34,24):
+      or       'std::byte'
+  
